@@ -8,7 +8,7 @@ import {
 } from 'react-router-dom'
 ReactDOM.render(
   <React.StrictMode>
-    <Router history={History}>
+    <Router history={History} basename="mymindradio/">
       <App />
     </Router>
   </React.StrictMode>,
