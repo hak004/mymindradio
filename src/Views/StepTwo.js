@@ -23,7 +23,7 @@ class StepTwo extends Component{
     }
 
     getFileNameForSeverity = (depressionSeverity, anxietySeverity)=>{
-      return `/music/depression${depressionSeverity}_anxiety${anxietySeverity}.mp3`;
+      return `${process.env.PUBLIC_URL}/music/depression${depressionSeverity}_anxiety${anxietySeverity}.mp3`;
     }
 
     componentDidMount(){
@@ -84,7 +84,7 @@ class StepTwo extends Component{
                             </audio>
                           </div>
                           <div>
-                            <img width = '30%' src="radio.png"></img>
+                            <img width = '30%' src={`${process.env.PUBLIC_URL}/radio.png`}></img>
                           </div>
                         </div>  
                       </div>

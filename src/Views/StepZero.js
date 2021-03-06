@@ -37,7 +37,7 @@ export default function StepZero(){
                 fontWeight: 'bold',
                 color: '#f1b522',
                 paddingLeft:79,
-                paddingTop:100,
+                paddingTop:50,
   
                 fontFamily: 'Times New Roman',
               }}> 
@@ -78,7 +78,7 @@ export default function StepZero(){
               
             </div>
             <p1>
-              <img width = '50%' src="radio.png" marginLeft = '500px'></img>
+              <img width = '50%' src={`${process.env.PUBLIC_URL}/radio.png`} marginLeft = '500px'></img>
             </p1>
           </div>
         </div>

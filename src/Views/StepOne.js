@@ -69,7 +69,7 @@ class StepOne extends Component{
                       ✦ My Mind Radio
                     </div>
                     <div style={{
-                      paddingTop:'60px',
+                      paddingTop:'50px',
                       fontSize:'11px',
                       color: '#23286b',
                       paddingLeft:79,
@@ -85,7 +85,7 @@ class StepOne extends Component{
                       <div id="legend" style={{
                           display:"flex",
                           flexDirection:"row",
-                          height:'60px'
+                          height:'10px'
                       }}>
                         <div style={{flexGrow:1}}/>
           
