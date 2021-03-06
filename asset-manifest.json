@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mymindradio/static/css/main.00019953.chunk.css",
-    "main.js": "/mymindradio/static/js/main.7e57f983.chunk.js",
-    "main.js.map": "/mymindradio/static/js/main.7e57f983.chunk.js.map",
-    "runtime-main.js": "/mymindradio/static/js/runtime-main.820fac99.js",
-    "runtime-main.js.map": "/mymindradio/static/js/runtime-main.820fac99.js.map",
-    "static/js/2.3e145204.chunk.js": "/mymindradio/static/js/2.3e145204.chunk.js",
-    "static/js/2.3e145204.chunk.js.map": "/mymindradio/static/js/2.3e145204.chunk.js.map",
-    "static/js/3.eb48b73a.chunk.js": "/mymindradio/static/js/3.eb48b73a.chunk.js",
-    "static/js/3.eb48b73a.chunk.js.map": "/mymindradio/static/js/3.eb48b73a.chunk.js.map",
+    "main.js": "/mymindradio/static/js/main.46e7f521.chunk.js",
+    "main.js.map": "/mymindradio/static/js/main.46e7f521.chunk.js.map",
+    "runtime-main.js": "/mymindradio/static/js/runtime-main.eda6dbbc.js",
+    "runtime-main.js.map": "/mymindradio/static/js/runtime-main.eda6dbbc.js.map",
+    "static/js/2.be01e1d9.chunk.js": "/mymindradio/static/js/2.be01e1d9.chunk.js",
+    "static/js/2.be01e1d9.chunk.js.map": "/mymindradio/static/js/2.be01e1d9.chunk.js.map",
+    "static/js/3.2e8f0800.chunk.js": "/mymindradio/static/js/3.2e8f0800.chunk.js",
+    "static/js/3.2e8f0800.chunk.js.map": "/mymindradio/static/js/3.2e8f0800.chunk.js.map",
     "index.html": "/mymindradio/index.html",
     "static/css/main.00019953.chunk.css.map": "/mymindradio/static/css/main.00019953.chunk.css.map",
-    "static/js/2.3e145204.chunk.js.LICENSE.txt": "/mymindradio/static/js/2.3e145204.chunk.js.LICENSE.txt"
+    "static/js/2.be01e1d9.chunk.js.LICENSE.txt": "/mymindradio/static/js/2.be01e1d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.820fac99.js",
-    "static/js/2.3e145204.chunk.js",
+    "static/js/runtime-main.eda6dbbc.js",
+    "static/js/2.be01e1d9.chunk.js",
     "static/css/main.00019953.chunk.css",
-    "static/js/main.7e57f983.chunk.js"
+    "static/js/main.46e7f521.chunk.js"
   ]
 }
