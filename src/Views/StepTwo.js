@@ -91,9 +91,8 @@ class StepTwo extends Component{
                       </div>
                       <div style={{
                         fontSize:'8px',
-                        fontWeight: 'lighter',
                         fontWeight: 'normal',
-                        color: 'black',
+                        color: 'gray',
                         paddingLeft:79,
                         paddingTop:200,
                         paddingBottom:50,
