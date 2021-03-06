@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mymindradio/static/css/main.00019953.chunk.css",
-    "main.js": "/mymindradio/static/js/main.70d1ac91.chunk.js",
-    "main.js.map": "/mymindradio/static/js/main.70d1ac91.chunk.js.map",
+    "main.js": "/mymindradio/static/js/main.9ef94abc.chunk.js",
+    "main.js.map": "/mymindradio/static/js/main.9ef94abc.chunk.js.map",
     "runtime-main.js": "/mymindradio/static/js/runtime-main.eda6dbbc.js",
     "runtime-main.js.map": "/mymindradio/static/js/runtime-main.eda6dbbc.js.map",
     "static/js/2.be01e1d9.chunk.js": "/mymindradio/static/js/2.be01e1d9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eda6dbbc.js",
     "static/js/2.be01e1d9.chunk.js",
     "static/css/main.00019953.chunk.css",
-    "static/js/main.70d1ac91.chunk.js"
+    "static/js/main.9ef94abc.chunk.js"
   ]
 }
