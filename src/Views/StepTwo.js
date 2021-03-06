@@ -86,8 +86,29 @@ class StepTwo extends Component{
                           <div>
                             <img width = '30%' src={`${process.env.PUBLIC_URL}/radio.png`}></img>
                           </div>
+
                         </div>  
                       </div>
+                      <div style={{
+                        fontSize:'8px',
+                        fontWeight: 'lighter',
+                        fontWeight: 'normal',
+                        color: 'black',
+                        paddingLeft:79,
+                        paddingTop:200,
+                        paddingBottom:50,
+                        fontFamily: 'Times New Roman',
+                        display:'flex',
+                        direction:'row',
+
+                      }}> 
+                      Works Cited<br/>Bro.vector. “People listening radio podcast online illustration Premium Vector” Freepik, 2020, https://www.freepik.com/premium-vector/people-listening-radio-podcast-online-illustration_7660995.htm.<br/>Chopin, Frédéric. “Relaxing Classical Music” Youtube, uploaded by HALIDON MUSIC, Jun 1, 2020, https://www.youtube.com/watch?v=y1dbbrfekAM&t=91s. <br/>
+Mozart, Wolfgang. "Classical Music for Brain Power" Youtube, uploaded by HALIDON MUSIC, Sep 6, 2017, https://youtu.be/7JmprpRIsEY.<br/>
+Gogeup Jupasu. "Real Depression Music Therapy – Highly Effective – 3 hours" Youtube, uploaded by Gogeup Jupasu, Nov 9, 2020, https://youtu.be/hvagzu0AbVY <br/>
+Mind Patting. "Healing music that heals depression, panic disorder, and anxiety disorder with a frequency of 528 hz” Youtube, uploaded by Mind Patting, Nov 9, 2020, https://youtu.be/FEBgUazCpq4 <br/>
+Nadanmusic. "Binaural Beats Music to Boost Serotonin, Dopamine and Endorphin, Healing Music” Youtube, uploaded by NadanMusic Label, Sep 12, 2019, https://youtu.be/_f-yw10lfgI <br/>
+Ease The Pain. "Stress Relief Sound, Music, Meditation, Relaxing Music” Youtube, uploaded by Ease The Pain Music, Nov 18, 2020, https://youtu.be/wumZ0hP4zZ0
+                          </div>
                     </div>
                     
                     
